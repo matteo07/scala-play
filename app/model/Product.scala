@@ -6,7 +6,7 @@ object Product {
 
   var products = Set(
 
-    Product(5010255079763L, "Paperclips Large",
+    Product(5010255079763L, "Paperclips  Large",
 
       "Large Plain Pack of 1000"),
 
